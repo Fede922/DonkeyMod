@@ -1,0 +1,3 @@
+displayName = DONKEYMOD
+author = CICCIOPUZZ
+version = 0.1
